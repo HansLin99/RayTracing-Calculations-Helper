@@ -1,5 +1,5 @@
 # RayTracing-Calculations-Helper
-Some matlab scripts used to do the calculations in raytracing.
+Some Matlab scripts used to do the calculations in raytracing.
 
 ## Content
 
